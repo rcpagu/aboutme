@@ -1,0 +1,5 @@
+print("The nickname, 'RC' doesn't come from my actual name.")
+print("It actually stands for Roman Catholic.")
+print("I got this nickname because I accidentally told my")
+print("teacher that my ethnicity was Roman Catholic when")
+print("they were taking down our information.")
